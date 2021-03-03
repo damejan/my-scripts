@@ -1,0 +1,1 @@
+`c.json` and` cpp.json` are from https://github.com/kkonghao/snippet-dog. I only changed curly brackets to k&r style(1TBS variant).

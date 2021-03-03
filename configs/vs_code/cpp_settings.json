@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "editor.mouseWheelZoom": true,
+    "telemetry.enableTelemetry": false,
+    "code-runner.runInTerminal": true,
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0 }",
+    "C_Cpp.suggestSnippets": false,
+    "editor.formatOnPaste": true
+}

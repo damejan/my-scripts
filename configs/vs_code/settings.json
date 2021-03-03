@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "code-runner.runInTerminal": true,
+    "telemetry.enableTelemetry": false,
+    "editor.mouseWheelZoom": true,
+    "javascript.suggest.completeFunctionCalls": true
+}
